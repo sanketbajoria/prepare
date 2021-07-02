@@ -1,0 +1,4 @@
+resource "aws_key_pair" "practice_key_pair" {
+  key_name   = "practice_key_pair"
+  public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAtMxHpuhpSXVTlNBA8yBo4aUrgJATv8SDFKA/mdmpPugk460QWVc2xgJqPT+ABNMupDI46pldHKfFSeNXmMmPqLSkHcukEU1kjhWFe45CiiyY0KcDRzqWncNnKipdBpguUm+UVJObNpfGD2M16UYR0E7QnKWW5dQZgla/EUuLg+DVBYqUVfnby90y7Fj0qIXe2zEKsrR2Aj/QLUQQuH5xucNwodBPh0UhcH35fEgr3N+vpwSZiWJTgA+NvuR5MqMgKM7z64fmlKF98QrmpKbjxxATzaTjZbaZ0tLwDxP0H/oNW4yaghdr098/4VLWAp7VaqXFly6lAuhQEXHhTGlFFQ== rsa-key-20200328"
+}
