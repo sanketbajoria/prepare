@@ -1,0 +1,23 @@
+{
+  "name": "prepare",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sanketbajoria/prepare.git",
+  "author": "Sanket Bajoria <bajoriasanket@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.2.2",
+    "babel-preset-env": "^1.7.0",
+    "vuepress": "^1.8.2"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bootstrap": "^5.1.0",
+    "markdown-it-vue": "1.1.6"
+  }
+}
