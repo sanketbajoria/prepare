@@ -7,3 +7,4 @@ https://www.linkedin.com/pulse/kafka-deduplication-patterns-1-2-rob-golder/
 
 https://eryilmaz0.medium.com/designing-event-consumers-everything-about-commit-offsets-in-kafka-23d3f88472bd
 
+https://www.cockroachlabs.com/blog/idempotency-and-ordering-in-event-driven-systems/
